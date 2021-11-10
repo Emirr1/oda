@@ -19,7 +19,7 @@ let config = {
     playerName: `host`,
     maxPlayers: 10,
     public: true,
-    roomScript: path.join(__Emirr1/oda, '..', 'room-script.js'),
+    roomScript: path.join(__Emirr1/oda/config, '..', 'levitan_script.js'),
   },
 };
 module.exports = config;
